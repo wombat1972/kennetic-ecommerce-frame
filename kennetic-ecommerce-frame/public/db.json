@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Glitter Tumbler",
+      "price": 60.0,
+      "image": "#",
+      "catagory": "Tumblers",
+      "description": ""
+    },
+    {
+      "id": 2,
+      "name": "Glitter Tumbler",
+      "price": 60.0,
+      "image": "#",
+      "catagory": "Tumblers",
+      "description": ""
+    },
+    {
+      "id": 3,
+      "name": "Glitter Tumbler",
+      "price": 60.0,
+      "image": "#",
+      "catagory": "Tumblers",
+      "description": ""
+    },
+    {
+      "id": 4,
+      "name": "Glitter Tumbler",
+      "price": 60.0,
+      "image": "#",
+      "catagory": "Tumblers",
+      "description": ""
+    },
+    {
+      "id": 5,
+      "name": "Glitter Tumbler",
+      "price": 60.0,
+      "image": "#",
+      "catagory": "Tumblers",
+      "description": ""
+    },
+    {
+      "id": 6,
+      "name": "Glitter Tumbler",
+      "price": 60.0,
+      "image": "#",
+      "catagory": "Tumblers",
+      "description": ""
+    },
+    {
+      "id": 7,
+      "name": "Glitter Tumbler",
+      "price": 60.0,
+      "image": "#",
+      "catagory": "Tumblers",
+      "description": ""
+    },
+    {
+      "id": 8,
+      "name": "Glitter Tumbler",
+      "price": 60.0,
+      "image": "#",
+      "catagory": "Tumblers",
+      "description": ""
+    },
+    {
+      "id": 9,
+      "name": "Glitter Tumbler",
+      "price": 60.0,
+      "image": "#",
+      "catagory": "Tumblers",
+      "description": ""
+    },
+    {
+      "id": 10,
+      "name": "Glitter Tumbler",
+      "price": 60.0,
+      "image": "#",
+      "catagory": "Tumblers",
+      "description": ""
+    }
+  ]
+}
